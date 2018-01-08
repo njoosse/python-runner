@@ -3,20 +3,20 @@
 		"atom-text-editor": [
 				{
 					"label": "Execute Python File",
-					"command": "python-runner:executePy()"
+					"command": "python-runner:executePy"
 				}
 		]
 	},
 	"menu": [
 		{
-			"label": "Packages",
+			"label": "Find",
 			"submenu": [
 				{
 					"label": "python-runner",
 					"submenu": [
 						{
 							"label": "Execute Python File",
-							"command": "python-runner:executePy()"
+							"command": "python-runner:executePy"
 						}
 					]
 				}

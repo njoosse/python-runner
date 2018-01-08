@@ -40,7 +40,7 @@
     "url": "https://github.com/njoosse/python-runner/issues"
   },
   "dependencies": {},
-  "description": "Compiles CPP files using a MinGW installation",
+  "description": "A package for Atom that calls a python executable to run a python script.",
   "devDependencies": {},
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

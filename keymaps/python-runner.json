@@ -1,6 +1,6 @@
 {
 	"atom-workspace":
 	{
-		"f5": "Python Runner:Execute Python"
+		"f5": "python-runner:executePy"
 	}
 }
