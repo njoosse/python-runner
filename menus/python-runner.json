@@ -1,0 +1,26 @@
+{
+	"context-menu": {
+		"atom-text-editor": [
+				{
+					"label": "Execute Python File",
+					"command": "python-runner:executePy()"
+				}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "python-runner",
+					"submenu": [
+						{
+							"label": "Execute Python File",
+							"command": "python-runner:executePy()"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\njoos\\AppData\\Local\\Temp\\d-11807-2032-wt1l1v.cg1kinewmi\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\njoos\\AppData\\Local\\Temp\\d-11807-2032-wt1l1v.cg1kinewmi\\package.tgz",
+        "spec": "C:\\Users\\njoos\\AppData\\Local\\Temp\\d-11807-2032-wt1l1v.cg1kinewmi\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\njoos\\AppData\\Local\\Temp\\apm-install-dir-11807-2032-n5ir7k.r9clo0qkt9"
+    ]
+  ],
+  "_from": "..\\d-11807-2032-wt1l1v.cg1kinewmi\\package.tgz",
+  "_id": "python-runner@0.0.1",
+  "_inCache": true,
+  "_location": "/python-runner",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\njoos\\AppData\\Local\\Temp\\d-11807-2032-wt1l1v.cg1kinewmi\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\njoos\\AppData\\Local\\Temp\\d-11807-2032-wt1l1v.cg1kinewmi\\package.tgz",
+    "spec": "C:\\Users\\njoos\\AppData\\Local\\Temp\\d-11807-2032-wt1l1v.cg1kinewmi\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-11807-2032-wt1l1v.cg1kinewmi\\package.tgz",
+  "_shasum": "ce2f882a9071882809601bf7d20aee95ba146c75",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\njoos\\AppData\\Local\\Temp\\d-11807-2032-wt1l1v.cg1kinewmi\\package.tgz",
+  "_where": "C:\\Users\\njoos\\AppData\\Local\\Temp\\apm-install-dir-11807-2032-n5ir7k.r9clo0qkt9",
+  "activationCommands": {},
+  "bugs": {
+    "url": "https://github.com/njoosse/python-runner/issues"
+  },
+  "dependencies": {},
+  "description": "Compiles CPP files using a MinGW installation",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/njoosse/python-runner#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/python-runner",
+  "name": "python-runner",
+  "optionalDependencies": {},
+  "readme": "# python-runner package\r\n\r\nA package for Atom that calls a python executable to run a python script.",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njoosse/python-runner.git"
+  },
+  "version": "0.0.1"
+}

@@ -1,0 +1,14 @@
+{
+    "Executable":
+    {
+        "description": "Python Executable File:",
+        "type": "string",
+        "default": "python.exe"
+    },
+    "KeepConsole":
+    {
+        "description": "Keep the console open after the script terminates.",
+        "type": "boolean",
+        "default": true
+    }
+}
