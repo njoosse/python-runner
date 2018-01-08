@@ -55,7 +55,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/njoosse/python-runner.git"
+    "url": "https://github.com/njoosse/python-runner.git"
   },
   "version": "0.0.1"
 }
