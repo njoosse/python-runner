@@ -9,7 +9,7 @@
 	},
 	"menu": [
 		{
-			"label": "Find",
+			"label": "Packages",
 			"submenu": [
 				{
 					"label": "python-runner",
